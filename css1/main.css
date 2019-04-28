@@ -1,6 +1,17 @@
 h1{
-    color: orchid
+    color: orchid;
 }
 p{
-    background: blue
+    background: blue;
+    color: whitesmoke;
+}
+.f{
+    color: red;
+}
+#d{
+    color: brown;
+}
+[Disabled]{
+    background: orange;
+    color: black;
 }
